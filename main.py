@@ -207,9 +207,9 @@ txt__txt = txt_.render("_", False,  (200,200,200))
 
 info6_txt = txt.render("Дата создании: 23.01.2024", False,  (60,160,60))
 
-calc_png= pygame.image.load('venvCalc.png')
-setupyt_png= pygame.image.load('venv/Calc.png')
-copy_png= pygame.image.load('venv/Copy.png')
+calc_png= pygame.image.load('Calc.png')
+setupyt_png= pygame.image.load('Calc.png')
+copy_png= pygame.image.load('Copy.png')
 
 running = True
 setup = False
